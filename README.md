@@ -1,1 +1,1 @@
-This project is an AI-powered Translation API built using FastAPI, LangChain, and Groq’s Gemma-9b-It model. It allows users to input text and a target language via a REST API and returns the translated output using a Large Language Model (LLM). It demonstrates how to integrate modern AI models with real-world backend systems.
+
